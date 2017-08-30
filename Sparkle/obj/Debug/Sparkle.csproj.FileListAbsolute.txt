@@ -1,0 +1,222 @@
+Z:\rajan kali\C# projects\Sparkle\Sparkle\bin\Sparkle.dll.config
+Z:\rajan kali\C# projects\Sparkle\Sparkle\bin\Sparkle.dll
+Z:\rajan kali\C# projects\Sparkle\Sparkle\bin\Sparkle.pdb
+Z:\rajan kali\C# projects\Sparkle\Sparkle\obj\Debug\Sparkle.csprojResolveAssemblyReference.cache
+Z:\rajan kali\C# projects\Sparkle\Sparkle\obj\Debug\Sparkle.dll
+Z:\rajan kali\C# projects\Sparkle\Sparkle\obj\Debug\Sparkle.pdb
+Z:\Minoosha Chinni\Sparkle\Sparkle\bin\Sparkle.dll.config
+Z:\Minoosha Chinni\Sparkle\Sparkle\bin\Sparkle.dll
+Z:\Minoosha Chinni\Sparkle\Sparkle\bin\Sparkle.pdb
+Z:\Minoosha Chinni\Sparkle\Sparkle\obj\Debug\Sparkle.csprojResolveAssemblyReference.cache
+Z:\Minoosha Chinni\Sparkle\Sparkle\obj\Debug\Sparkle.dll
+Z:\Minoosha Chinni\Sparkle\Sparkle\obj\Debug\Sparkle.pdb
+C:\Users\Minoosha.Chinni\Desktop\Sparkle\Sparkle\bin\Sparkle.dll.config
+C:\Users\Minoosha.Chinni\Desktop\Sparkle\Sparkle\bin\Sparkle.dll
+C:\Users\Minoosha.Chinni\Desktop\Sparkle\Sparkle\bin\Sparkle.pdb
+C:\Users\Minoosha.Chinni\Desktop\Sparkle\Sparkle\obj\Debug\Sparkle.dll
+C:\Users\Minoosha.Chinni\Desktop\Sparkle\Sparkle\obj\Debug\Sparkle.pdb
+C:\Users\Minoosha.Chinni\Desktop\Sparkle\Sparkle\obj\Debug\Sparkle.csprojResolveAssemblyReference.cache
+F:\programs\C#\Sparkle\Sparkle\bin\Sparkle.dll.config
+F:\programs\C#\Sparkle\Sparkle\bin\Sparkle.dll
+F:\programs\C#\Sparkle\Sparkle\bin\Sparkle.pdb
+F:\programs\C#\Sparkle\Sparkle\obj\Debug\Sparkle.csprojResolveAssemblyReference.cache
+F:\programs\C#\Sparkle\Sparkle\obj\Debug\Sparkle.dll
+F:\programs\C#\Sparkle\Sparkle\obj\Debug\Sparkle.pdb
+C:\Users\TEMP\Desktop\Sparkle\Sparkle\bin\Sparkle.dll
+C:\Users\TEMP\Desktop\Sparkle\Sparkle\bin\Sparkle.pdb
+C:\Users\TEMP\Desktop\Sparkle\Sparkle\obj\Debug\Sparkle.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\Sparkle\Sparkle\obj\Debug\Sparkle.dll
+C:\Users\TEMP\Desktop\Sparkle\Sparkle\obj\Debug\Sparkle.pdb
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\Sparkle.dll.config
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\Sparkle.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\Sparkle.pdb
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\obj\Debug\Sparkle.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\obj\Debug\Sparkle.pdb
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\obj\Debug\Sparkle.csprojResolveAssemblyReference.cache
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\AjaxMin.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\HtmlAgilityPack.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\Microsoft.Data.Edm.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\Microsoft.Data.OData.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\System.Spatial.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\HtmlAgilityPack.pdb
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\HtmlAgilityPack.xml
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\Microsoft.Data.Edm.xml
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\Microsoft.Data.OData.xml
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\System.Spatial.xml
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\de\System.Spatial.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\es\System.Spatial.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\fr\System.Spatial.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\it\System.Spatial.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\ja\System.Spatial.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\ko\System.Spatial.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\ru\System.Spatial.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\AjaxControlToolkit.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\AjaxControlToolkit.pdb
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\rajan.kali\Desktop\Sparkle\Sparkle\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\obj\Debug\Sparkle.csprojResolveAssemblyReference.cache
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\obj\Debug\Sparkle.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\obj\Debug\Sparkle.pdb
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\Sparkle.dll.config
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\Sparkle.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\Sparkle.pdb
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\AjaxMin.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\HtmlAgilityPack.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\Microsoft.Data.Edm.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\Microsoft.Data.OData.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\System.Spatial.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\AjaxControlToolkit.pdb
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\HtmlAgilityPack.pdb
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\HtmlAgilityPack.xml
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\Microsoft.Data.Edm.xml
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\Microsoft.Data.OData.xml
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\System.Spatial.xml
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\de\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\es\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\fr\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\it\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\ja\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\ko\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\ru\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\Sparkle\Sparkle\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\Sparkle.dll.config
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\Sparkle.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\Sparkle.pdb
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\AjaxMin.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\HtmlAgilityPack.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\Microsoft.Data.Edm.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\Microsoft.Data.OData.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\System.Spatial.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\AjaxControlToolkit.pdb
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\HtmlAgilityPack.pdb
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\HtmlAgilityPack.xml
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\Microsoft.Data.Edm.xml
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\Microsoft.Data.OData.xml
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\System.Spatial.xml
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\de\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\es\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\fr\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\it\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\ja\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\ko\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\ru\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\obj\Debug\Sparkle.csprojResolveAssemblyReference.cache
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\obj\Debug\Sparkle.dll
+C:\Users\rakesh\Documents\Adv SE\project 2\Sparkle\Sparkle\obj\Debug\Sparkle.pdb
